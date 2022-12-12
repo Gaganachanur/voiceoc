@@ -128,7 +128,7 @@ let inputApi_3 = {
 }
 
 // NOTE : inputApi1 means checked on risk statement 1 etc
-console.log(riskAlgo(inputApi_doc));// the output to the give Example in docis wrong , this risk algo is getting correct output
+console.log(riskAlgo(inputApi_doc));// the output to the give Example in doc is wrong , this risk algo is getting correct output
 console.log(riskAlgo(inputApi_1));
 console.log(riskAlgo(inputApi_2));
 console.log(riskAlgo(inputApi_3));
